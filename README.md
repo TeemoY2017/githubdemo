@@ -1,10 +1,4 @@
-# telegram-bot-template
 
-## Template project for Telegram bot with Telegrammer and Vapor frameworks
-
-### Install with Vapor CLI
-
-```
 $ vapor new MyBot --template=https://github.com/givip/telegram-bot-template
 ```
 
